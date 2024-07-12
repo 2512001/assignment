@@ -27,5 +27,5 @@ app.all((err , req , res)=>{
 const port = 3000;
 
 app.listen(port, () => {
-  console.log(`App is running on port ${port}`);
+  console.log(`you application running on port ${port} `);
 });
